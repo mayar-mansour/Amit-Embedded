@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677267958 source:e:\embedded system\tasks\amit-embedded\task4(calculator)\main.c
+	<stdio.h>
+	<stdlib.h>
+
