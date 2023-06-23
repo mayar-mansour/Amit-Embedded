@@ -1,4 +1,4 @@
-// Write a program to swap two numbers using bitwise operators
+//5. Write a program to swap two numbers using bitwise operators
 #include <stdio.h>
 
     void
